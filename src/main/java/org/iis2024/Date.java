@@ -27,7 +27,7 @@ public class Date {
    */
 
   public void methodAddedByOwner(){
-    System.out.println("Method added by the owner");
+    System.out.println("Method added by owner");
   }
   public int getDay() {
     return day;
